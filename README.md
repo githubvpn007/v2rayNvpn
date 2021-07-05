@@ -38,8 +38,9 @@ ok  前面说了vpn就是与千里之外的电脑进行连接，这个千里之�
 ###### (2)使用付费的VPN软件 【不推荐】 
 这种由vpn服务商开发的集成式 vpn创建软件类似于：  
 一、Express VPN（[点击访问官网](https://www.expressvpn.com/)）  
-二、Westworld西部世界 （[点击访问官网](https://xbsj9729.website/)）
-三、迷雾通（[点击访问官网](https://geph.io/zhs/)）
+二、Westworld西部世界 （[点击访问官网](https://xbsj9729.website/)）  
+三、迷雾通（[点击访问官网](https://geph.io/zhs/)）  
+四、Squirrel vpn（[点击访问官网](https://www.squirrelvp.com/)）
 
 
 ###### (3)  
