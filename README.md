@@ -7,16 +7,16 @@
 <br />
 
 # 目录  
-- [什么是VPN](#一 什么是vpn)
-- [应该怎么选择合适的VPN](#二，应该怎么选择合适的VPN)
-- [工具下载](#三，工具下载)
+- [什么是VPN](#什么是vpn)
+- [应该怎么选择合适的VPN](#应该怎么选择合适的VPN)
+- [工具下载](#工具下载)
 - [使用教程](#使用教程)
 - [节点分享](#节点分享)
 <br />
 
 <br/>
   
-## 一 什么是vpn
+# 什么是vpn
 
 本教程着重介绍使用和分享好用实惠的翻墙方式，并不会对技术上的问题进行深挖. vpn中文名虚拟专用网络 翻译成大白话的意思就是我的电脑(或手机)与千里之外的电脑建立一个专属通道的连接，这个连接不需要经过国内的域名解析节点（DNS） 所以不受国内监管屏蔽，我们最终访问的网站或者内容是通过这台千里之外的电脑去访问的,千里之外的电脑拿到数据后再通过这个专属通道回传到我们的电脑，然后我们的电脑就能成功访问外网了，这个理解应该清楚了吧？  
 ok  前面说了vpn就是与千里之外的电脑进行连接，这个千里之外的电脑可能在美国也可能在世界的任何地方，总之我们首先需要有这么一台电脑。这个电脑可以是您自己去购买 也可以是别人提供，目前别人提供的电脑就是现在的很多vpn服务商干得事情，当然啦自己买电脑也是需要进行过专门的技术配置才可能使用的。
@@ -24,7 +24,7 @@ ok  前面说了vpn就是与千里之外的电脑进行连接，这个千里之�
 <br />
 <br/>
 
-## 二，应该怎么选择合适的VPN  
+# 应该怎么选择合适的VPN  
 目前常用的vpn连接方式有以下几种：  
 ### (1)使用付费或免费VPN订阅 【推荐】  
 这种方式是使用V2rayN , Clash , Shadowsocks/ShadowsocksR (ShadowsocksR是Shadowsocks的升级版本 加强了安全性，以后我们就用ShadowsocksR就是可以了)  等工具去订阅服务商提供的订阅地址即可实现vpn连接。你可以理解为这些工具都是帮您自动创建VPN连接的,只不过这些不同的软件使用的传输协议不一样！！([可能你不知道协议是什么意思，你只需要知道这些工具可以创建VPN就可以了](#ll))  
@@ -73,7 +73,7 @@ vpn集成式软件类似于：
 
 <br/>
 
-## 三，工具下载  
+# 工具下载  
 | 工具         | Windows                                                      | MacOS                                                        | Android                                                      | IOS                                                          | 备注                                                         |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | Shadowsocks  | [shadowsocks-win](https://github.com/shadowsocks/shadowsocks-windows/releases) <br/>[shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5/releases) <br/> [SSD](https://github.com/TheCGDF/SSD-Windows/releases) | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) <br/> [Surge](https://nssurge.com/) | [Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks) <br/> [Github](https://github.com/shadowsocks/shadowsocks-android/releases) <br/> [SSD](https://github.com/TheCGDF/SSD-Android/releases) <br/> [Surfboard](https://manual.getsurfboard.com/) | **[Shadowrocket](https://apps.apple.com/us/app/id932747118)** <br/> **[Surge4](https://apps.apple.com/us/app/id1442620678)**  <br/> [ShadowSocks](http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks) <br/> **[QuantumultX](https://apps.apple.com/us/app/id1443988620)** | IOS工具下载需要用美区的AppleID                               |
