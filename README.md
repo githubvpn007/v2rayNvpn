@@ -26,7 +26,7 @@ ok  前面说了vpn就是与千里之外的电脑进行连接，这个千里之�
 ## 二，应该怎么选择合适的VPN  
 目前常用的vpn连接方式有以下几种：  
 ### (1)使用付费或免费VPN订阅 【推荐】  
-这种方式是使用V2rayN , Clash , Shadowsocks/ShadowsocksR(ShadowsocksR是Shadowsocks的升级版本 加强了安全性，以后我们就用ShadowsocksR就是可以了)等工具去订阅服务商提供的订阅地址即可实现vpn连接。你可以理解为这些工具都是帮您自动创建VPN连接的,只不过这些不同的软件使用的传输协议不一样！！([可能你不知道协议是什么意思，你只需要知道这些工具可以创建VPN就可以了](#ll))  
+这种方式是使用V2rayN , Clash , Shadowsocks/ShadowsocksR (ShadowsocksR是Shadowsocks的升级版本 加强了安全性，以后我们就用ShadowsocksR就是可以了)  等工具去订阅服务商提供的订阅地址即可实现vpn连接。你可以理解为这些工具都是帮您自动创建VPN连接的,只不过这些不同的软件使用的传输协议不一样！！([可能你不知道协议是什么意思，你只需要知道这些工具可以创建VPN就可以了](#ll))  
 
 **优点:**  
 1.节点扩展方便   
@@ -66,7 +66,7 @@ vpn集成式软件类似于：
 1.技术要求较高  不适合小白  
 2.节点较少 不方便扩展新的节点  
 
-**自搭建教程：**  
+**自搭建教程(选其一即可)：**  
 [搭建 V2ray 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E7%BE%8E%E5%9B%BDVPS-Hostwinds%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BAV2Ray%E6%9C%80%E6%96%B0%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B)  
 [搭建 SSR 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/VPS%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BASSR%E6%95%99%E7%A8%8B)
 
