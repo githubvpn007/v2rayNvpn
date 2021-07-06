@@ -14,7 +14,7 @@
 - [节点分享](#节点分享)
 <br />
 
-
+<br/>
   
 ## 一，什么是vpn
 
@@ -22,6 +22,7 @@
 ok  前面说了vpn就是与千里之外的电脑进行连接，这个千里之外的电脑可能在美国也可能在世界的任何地方，总之我们首先需要有这么一台电脑。这个电脑可以是您自己去购买 也可以是别人提供，目前别人提供的电脑就是现在的很多vpn服务商干得事情，当然啦自己买电脑也是需要进行过专门的技术配置才可能使用的。
 
 <br />
+<br/>
 
 ## 二，应该怎么选择合适的VPN  
 目前常用的vpn连接方式有以下几种：  
@@ -70,7 +71,7 @@ vpn集成式软件类似于：
 [搭建 V2ray 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E7%BE%8E%E5%9B%BDVPS-Hostwinds%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BAV2Ray%E6%9C%80%E6%96%B0%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B)  
 [搭建 SSR 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/VPS%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BASSR%E6%95%99%E7%A8%8B)  
 
-
+<br/>
 
 # 三，工具下载  
 | 工具         | Windows                                                      | MacOS                                                        | Android                                                      | IOS                                                          | 备注                                                         |
