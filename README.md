@@ -68,7 +68,17 @@ vpn集成式软件类似于：
 
 **自搭建教程(选其一即可)：**  
 [搭建 V2ray 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E7%BE%8E%E5%9B%BDVPS-Hostwinds%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BAV2Ray%E6%9C%80%E6%96%B0%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B)  
-[搭建 SSR 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/VPS%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BASSR%E6%95%99%E7%A8%8B)
+[搭建 SSR 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/VPS%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BASSR%E6%95%99%E7%A8%8B)  
+
+
+
+三，工具下载  
+| 工具         | Windows                                                      | MacOS                                                        | Android                                                      | IOS                                                          | 备注                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| Shadowsocks  | [shadowsocks-win](https://github.com/shadowsocks/shadowsocks-windows/releases) <br/>[shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5/releases) <br/> [SSD](https://github.com/TheCGDF/SSD-Windows/releases) | [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) <br/> [Surge](https://nssurge.com/) | [Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks) <br/> [Github](https://github.com/shadowsocks/shadowsocks-android/releases) <br/> [SSD](https://github.com/TheCGDF/SSD-Android/releases) <br/> [Surfboard](https://manual.getsurfboard.com/) | **[Shadowrocket](https://apps.apple.com/us/app/id932747118)** <br/> **[Surge4](https://apps.apple.com/us/app/id1442620678)**  <br/> [ShadowSocks](http://apt.thebigboss.org/onepackage.php?bundleid=com.linusyang.shadowsocks) <br/> **[QuantumultX](https://apps.apple.com/us/app/id1443988620)** | IOS工具下载需要用美区的AppleID                               |
+| ShadowsocksR | [SSR](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)  <br/>**[HMBSbige/SSR](https://github.com/HMBSbige/ShadowsocksR-Windows/releases)** |                                                              | **[SSRR](https://github.com/shadowsocksrr/shadowsocksr-android/releases)** |                                                              |                                                              |
+| QV2ray       | **[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)**      | **[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)**      | [**Qv2ray**](https://github.com/Qv2ray/Qv2ray/releases)      |                                                              | [官网](https://qv2ray.net/)                                  |
+| V2ray        | [V2rayN](https://github.com/2dust/v2rayN/releases)           | [V2rayU](https://github.com/yanue/V2rayU/releases) <br/> [V2rayX](https://github.com/Cenmrev/V2RayX/releases) | [V2rayNG](https://github.com/2dust/v2rayNG/releases) <br/> [Actinium](https://github.com/V2Ray-Android/Actinium/releases) <br/> [BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv) | [kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) | [官网]
 
 
 
