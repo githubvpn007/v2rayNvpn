@@ -65,5 +65,9 @@ vpn集成式软件类似于：
 1.技术要求较高  不适合小白  
 2.节点较少 不方便扩展新的节点  
 
+**自搭建教程：**  
+[搭建 V2ray 服务器教程](https://github.com/githubvpn007/v2rayNvpn.wiki.git)  
+[搭建 SSR 服务器教程](https://github.com/githubvpn007/v2rayNvpn.wiki.git)
+
 
 
