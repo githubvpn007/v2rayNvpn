@@ -82,13 +82,16 @@ vpn集成式软件类似于：
 | V2ray        | [V2rayN](https://github.com/2dust/v2rayN/releases)           |  [V2rayX](https://github.com/Cenmrev/V2RayX/releases) | [V2rayNG](https://github.com/2dust/v2rayNG/releases)  | [kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) | [官网]
 
 
-
+<br/>
   
 
 # 使用教程  
 
-- windows  
-|  |   |
+
+**V2ray教程**  
+|  |  |
+|:--:|:--:|:--:|
+
 
 
 
