@@ -47,7 +47,7 @@
 
 ### 手工配置
 
-![](./images/ss/android-4.png)  
+![](./images/ss/android-4.jpg)  
 
 <br/>
 
