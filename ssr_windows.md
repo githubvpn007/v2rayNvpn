@@ -29,7 +29,7 @@
 访问 ShadowsocksR Windows 客户端 [下载页面](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)。
 下载最新版本的 `ShadowsocksR-win-x.x.x.zip`  (`x.x.x`为版本号) 。
 
-![1554627269767](../files/images/1554627269767.png)
+![](./images/ssr/win-1.png)
 
 #### 2. 解压客户端
 
@@ -37,7 +37,7 @@
 点击 "浏览" 选择想要解压到的文件目录 > "完成时显示提取的文件" > "提取"。
 双击运行 `ShadowsocksR-dotnet4.0.exe`。
 
-![1554627495291](../files/images/1554627495291.png)
+![](./images/ssr/win-2.png)
 
 
 
@@ -49,9 +49,9 @@
 
 **在分享节点的网站中一般都有查看二维码的功能。**
 
-![1554628152459](../files/images/1554628152459.png)
+![](./images/ssr/win-3.png)
 
-- 右键状态栏![ss icon](../files/images/win-icon.png)  > "二维码扫描..."。
+- 右键状态栏![ss icon](./images/srr/win-icon.png)  > "二维码扫描..."。
 - 点击 "系统代理模式" > "PAC 模式" 。
 
 
@@ -60,10 +60,10 @@
 
 从分享节点的网站中获取到以 SSR:// 为前缀的链接
 
-![1554628152459](../files/images/1554628152459.png)
+![](./images/ssr/win-4.png)
 
 - 先拷贝SSR://链接
-- 右键状态栏![ss icon](../files/images/win-icon.png)  > "剪贴板批量导入SSR://链接..."。
+- 右键状态栏![ss icon](./images/ssr/win-icon.png)  > "剪贴板批量导入SSR://链接..."。
 
 
 
@@ -73,4 +73,4 @@
 
 从分享节点的网站中依次填入相应信息，确定即可
 
-![1554628283617](../files/images/1554628283617.png)
+![](./images/ssr/win-5.png)
