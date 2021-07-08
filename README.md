@@ -90,14 +90,14 @@ vpn集成式软件类似于：
 [根据自己的环境选择合适的工具](#vv)
 
 **V2ray教程**  
-|      [Windows](V2rayN_Windows.md)        |       [macos](ss_macos.md)              |     [android](V2rayNG_Android.md)    |  [ios/iPadOS 客户端](Kitsunebi_ios.md) |
+|      [Windows](V2rayN_Windows.md)        |       [macos](V2rayX_MacOs.md)              |     [android](V2rayNG_Android.md)    |  [ios/iPadOS 客户端](Kitsunebi_ios.md) |
 |:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
 
 
 <br/>
 
 **Shadowsocks**  
-|      [Windows](ss_windows.md)        |       [macos](V2rayX_MacOs.md)              |     [android](V2rayNG_Android.md)    |  [ios/iPadOS 客户端](Kitsunebi_ios.md) |
+|      [Windows](ss_windows.md)        |       [macos](ss_macos.md)              |     [android](V2rayNG_Android.md)    |  [ios/iPadOS 客户端](Kitsunebi_ios.md) |
 |:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
 
 
