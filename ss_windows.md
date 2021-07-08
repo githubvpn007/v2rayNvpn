@@ -17,7 +17,7 @@
 
 您需要具备 Windows 7 SP1 或更高版本才能运行 Shadowsocks。如果您的操作系统版本较旧， 则请先升级到  Windows 7 SP1 或更高版本。
 
-**NET Framework**: 如果你的计算机未安装.NET Framework, 请点击 [这里](https://www.microsoft.com/zh-tw/download/details.aspx?id=53345) 下载最新版本的 .NET Framework。
+**NET Framework**: 如果你的计算机未安装.NET Framework, 请点击 [这里](https://dotnet.microsoft.com/download/dotnet-framework) 下载最新版本的 .NET Framework。
 
 ## 安装 Shadowsocks
 
