@@ -96,8 +96,8 @@ vpn集成式软件类似于：
 
 <br/>
 
-**Shadowsocks**  
-|      [Windows](ss_windows.md)        |       [macos](ss_macos.md)              |     [android](ss_android.md)    |  [ios/iPadOS 客户端](Kitsunebi_ios.md) |
+**Shadowsocks教程**  
+|      [Windows](ss_windows.md)        |       [macos](ss_macos.md)              |     [android](ss_android.md)    |  [ios/iPadOS 客户端](ss_ios.md) |
 |:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
 
 
