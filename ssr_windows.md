@@ -51,7 +51,7 @@
 
 ![](./images/ssr/win-3.png)
 
-- 右键状态栏![ss icon](./images/srr/win-icon.png)  > "二维码扫描..."。
+- 右键状态栏![ss icon](./images/ssr/win-icon.png)  > "二维码扫描..."。
 - 点击 "系统代理模式" > "PAC 模式" 。
 
 
