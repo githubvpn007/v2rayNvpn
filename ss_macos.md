@@ -25,7 +25,7 @@
 访问 Shadowsocks [下载页面](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)。
 点击最新版本的 `ShadowsocksX-NG.x.x.x.zip` 进行下载 (`x.x.x`为版本号) 。
 
-![下载客户端](../files/images/mac-shadowsockDownload.png)
+![下载客户端](./images/ss/mac-1.png)
 
 或是前往 [客户端中心](https://shadowsocks.org/en/download/clients.html) 下载
 
@@ -33,45 +33,45 @@
 
 双击解压 `ShadowsocksX-NG.x.x.x.zip` , 获取 `ShadowsocksX-NG`。
 
-![安装客户端](../files/images/mac-shadowsocksIcon.png)
+![安装客户端](./images/ss/mac-2.png)
 
 将 "ShadowsocksX-NG" 拖移到 “访达”里面的 “应用程序”。
 
-!["ShadowsocksX-NG" 移动到 "访达" 里面的 "应用程序"](../files/images/mac-shadowsocksDrag.gif)
+!["ShadowsocksX-NG" 移动到 "访达" 里面的 "应用程序"](./images/ss/mac-3.gif)
 
 在 "应用程序" 中双击 "ShadowsocksX-NG" > 选择 "打开"。
 
-![选择打开](../files/images/mac-NGprompt.png)
+![选择打开](./images/ss/mac-4.png)
 
 ## 配置 Shadowsocks 账号
 
 #### 手动添加
 
-* 点击屏幕顶部菜单栏的 ![menu_icon_disabled](../files/images/mac-menu_icon_disabled.png)> "服务器" > "服务器设置"。
+* 点击屏幕顶部菜单栏的 ![menu_icon_disabled](./images/ss/mac-menu_icon_disabled.png)> "服务器" > "服务器设置"。
 
-![点击屏幕最上方菜单栏](../files/images/mac-menubar.png)
+![点击屏幕最上方菜单栏](./images/ss/mac-5.png)
 
 * 点击窗口上的 "+" > 填写 "地址" > 填写 “服务端口" > 选择 ”加密方法"。
 * 填写 "密码“ > 填写"备注" 为可选项。
 * 点击 "打开Shadowsocks" 。
 * 当显示 `Shadowsocks: On`时，表示系统代理已经打开。
 
-![服务器设置，打开ss](../files/images/mac-shadowsocksSetting.png)
+![服务器设置，打开ss](./images/ss/mac-6.png)
 
 #### 二维码方式
 
 此二维码同样适用于其他客户端。
 
-* 点击屏幕顶部菜单栏的 ![menu_icon_disabled](../files/images/mac-menu_icon_disabled.png) > "扫描屏幕上的二维码" > 当看到 "已添加新的Shadowsocks服务器"，代表添加成功。
+* 点击屏幕顶部菜单栏的 ![menu_icon_disabled](./images/ss/mac-menu_icon_disabled.png) > "扫描屏幕上的二维码" > 当看到 "已添加新的Shadowsocks服务器"，代表添加成功。
 * 点击 "打开Shadowsocks" 。
 * 当显示 `Shadowsocks: On`时，表示系统代理已经打开。
 
-![打开ss](../files/images/mac-QR.png)
+![打开ss](./images/ss/mac-7.png)
 
 ## 配置系统代理模式
-*  点击屏幕右上方菜单栏的 ![menu_icon_disabled](../files/images/mac-menu_icon_disabled.png)  > "PAC自动模式"。
+*  点击屏幕右上方菜单栏的 ![menu_icon_disabled](./images/ss/mac-menu_icon_disabled.png)  > "PAC自动模式"。
 
-![pac设置](../files/images/mac-pac.png)
+![pac设置](./images/ss/mac-8.png)
 
 ## 注意事项
 * **PAC 模式** 表示可以实现自动代理， 及本来可以访问的网站不会经过代理，推荐日常使用。
