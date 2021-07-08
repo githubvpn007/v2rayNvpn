@@ -10,5 +10,5 @@
 
 ## 3、配置 ShadowsocksR 客户端
 
-配置方法同： [Android 下 Shadowsocks 设置方法#配置 Shadowsocks 客户端](./ss/ss_android.md) 
+配置方法同： [Android 下 Shadowsocks 设置方法#配置 Shadowsocks 客户端](./ss_android.md) 
 
