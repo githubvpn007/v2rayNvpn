@@ -17,6 +17,7 @@
 - [工具下载](#工具下载)
 - [节点分享](#节点分享)
 - [使用教程](#使用教程)
+- [扩展资料](#扩展资料)
 
 <br />
 
@@ -204,6 +205,6 @@ vpn集成式软件类似于：
 
 <br/>
 
-# 学习资料
+# 扩展资料
 
-## [如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 请点这里](https://github.com/githubvpn007/proxy)
+## 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
