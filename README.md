@@ -189,9 +189,9 @@ vpn集成式软件类似于：
 [根据自己的环境选择合适的工具](#vv)
 
 **V2ray教程**  
-|      [V2rayN](V2rayN_Windows.md)        |       [v2rayX](V2rayX_MacOs.md)              |     [V2rayNG](V2rayNG_Android.md)    |  [Kitsunebi](Kitsunebi_ios.md) |
-|:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
-
+|      windows        |       macos              |      android   |  ios |
+|:-----------------:|:--------------------:|:-------------------------:|:--------------------------------:|
+|[V2rayN](V2rayN_Windows.md)|[v2rayX](V2rayX_MacOs.md)|[V2rayNG](V2rayNG_Android.md)|[Kitsunebi](Kitsunebi_ios.md)|
 
 <br/>
 
