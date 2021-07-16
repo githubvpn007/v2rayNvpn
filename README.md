@@ -174,7 +174,7 @@ vpn集成式软件类似于：
 ## [付费节点：](#付费节点)  
 
 
-#### [椰子→](https://kolacloud.com/auth/register?code=TbxY)  ：价格比较实惠，每月最低5元
+### [（1）椰子vmess/ssr/trojan/v2ray→](https://kolacloud.com/auth/register?code=TbxY)  ：线路稳定 价格比较实惠，每月最低5元
 
 
 
