@@ -173,9 +173,9 @@ vpn集成式软件类似于：
 
 ## [付费节点：]()  
 
-[*clash & trojan & V2ray & ssr*  地址](https://kolacloud.com/auth/register?code=TbxY)  
+[椰子→](https://kolacloud.com/auth/register?code=TbxY)  ：价格比较实惠，每月最低5元
 
-价格：  
+ 
 ![](./images/椰子价格.png)
 
 
