@@ -174,9 +174,9 @@ vpn集成式软件类似于：
 ## [付费节点：](#付费节点)  
 
 
-### [（1）椰子vmess/ssr/trojan/v2ray→](https://kolacloud.com/auth/register?code=TbxY)  ：线路稳定 价格比较实惠，每月最低5元
+### [（1）椰子vmess/ssr/trojan/v2ray→](https://kolacloud.com/auth/register?code=TbxY)  ：线路稳定 价格比较实惠，每月最低5元  
 
-
+### [（2）Just My Socks→](https://justmysocks.net/members/aff.php?aff=18081) :一家美国服务商 高速稳定、30天不满意退款、没有跑路风险。价格比计较贵  适合土豪
 
 
 
