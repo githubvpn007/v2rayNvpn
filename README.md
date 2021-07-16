@@ -196,9 +196,9 @@ vpn集成式软件类似于：
 <br/>
 
 **Shadowsocks教程**  
-|      [Windows](ss_windows.md)        |       [macos](ss_macos.md)              |     [android](ss_android.md)    |  [ios/iPadOS 客户端](ss_ios.md) |
+|     Windows       |       macos           |     android    |  ios/iPadOS 客户端 |
 |:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
-
+|[Shadowsocks](ss_windows.md)|[ShadowsocksX-NG](ss_macos.md)|[shadowsocks-android](ss_android.md)|  [Shadowrocket](ss_ios.md)    |
 
 <br/>
 
