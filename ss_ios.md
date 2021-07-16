@@ -16,7 +16,7 @@ Shadowrocket 是 iOS 平台上较早出现的支持 SSR 协议的客户端，坊
 ----
 请使用非中国内地区的 Apple ID 搜索并购买应用，本站并不提供Apple ID，也不提供破解版的 App。  
 
-[下载Shadowrocket ](https://apps.apple.com/us/app/shadowrocket/id932747118)  
+[下载Shadowrocket ](https://github.com/githubvpn007/v2rayNvpn/releases/tag/Shadowrocket_2.1.12)  
 
 
 <br/>
