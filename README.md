@@ -192,7 +192,7 @@ vpn集成式软件类似于：
 **V2ray教程**  
 |      windows        |       macos              |      android   |  ios |
 |:-----------------:|:--------------------:|:-------------------------:|:--------------------------------:|
-|[V2rayN](V2rayN_Windows.md) <br/> [Qv2ray](https://github.com/githubvpn007/v2rayNvpn/wiki/Qv2ray-for-Win)  <br/>  [V2rayW](https://github.com/githubvpn007/V2rayW) <br/> [V2RayS]()|[v2rayX](V2rayX_MacOs.md)|[V2rayNG](V2rayNG_Android.md)|[Kitsunebi](Kitsunebi_ios.md)|
+|[V2rayN](V2rayN_Windows.md) <br/> [Qv2ray](https://github.com/githubvpn007/v2rayNvpn/wiki/Qv2ray-for-Win)  <br/>  [V2rayW](https://github.com/githubvpn007/V2rayW) <br/> [V2RayS](https://github.com/githubvpn007/V2RayS)|[v2rayX](V2rayX_MacOs.md)|[V2rayNG](V2rayNG_Android.md)|[Kitsunebi](Kitsunebi_ios.md)|
 
 <br/>
 
