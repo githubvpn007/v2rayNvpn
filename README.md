@@ -166,7 +166,7 @@ vpn集成式软件类似于：
 
 **trojan订阅**   
 
-(1) https://proxypoolsstest.herokuapp.com/trojan/sub  
+(1) https://raw.fastgit.org/freefq/free/master/v2
 
 
 <br/>
