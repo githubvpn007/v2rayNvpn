@@ -174,10 +174,11 @@ vpn集成式软件类似于：
 ## [付费节点：](#付费节点)  
 
 
-### [（1）椰子vmess/ssr/trojan/v2ray→](https://kolacloud.com/auth/register?code=TbxY)  ：线路稳定、价格比较实惠、免费试用、每月最低5元  
+### [（1）椰汁vmess/ssr/trojan/v2ray→](https://kolacloud.com/auth/register?code=TbxY)  ：线路稳定、价格比较实惠、免费试用、每月最低5元  
 
 ### [（2）Just My Socks→](https://justmysocks.net/members/aff.php?aff=18081) :一家美国服务商 高速稳定、30天不满意退款、没有跑路风险。价格比计较贵  适合土豪     
 
+### [椰汁使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E6%A4%B0%E6%B1%81%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ### [Just My Socks使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/Just-My-Socks%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 
