@@ -213,6 +213,16 @@ vpn集成式软件类似于：
 |:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
 |[ShadowsocksR-winp](ssr_windows.md)|[MacOS 的 SSR 使用方法同 Shadowsocks 设置方法 (macOS) ](ss_macos.md)|[ shadowsocksr-android](ssr_android.md)|[IOS 的 SSR 使用方法同 Shadowsocks 设置方法 (iOS)](ss_ios.md)|
 
+
+<br/>
+
+**Clash 教程**  
+
+|     Windows        |      MacOS              |     android    |  IOS |
+|:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
+|||[ClashR](https://github.com/githubvpn007/Clash-for-Android)||
+
+
 <br/>
 <br/>
 <br/> 
