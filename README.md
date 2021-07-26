@@ -220,7 +220,7 @@ vpn集成式软件类似于：
 
 |     Windows        |      MacOS              |     android    |  IOS |
 |:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
-|[Clash for windows](https://github.com/githubvpn007/Clash-for-Windows) <br/> [ClashDotNetFramework](https://github.com/githubvpn007/ClashDotNetFramework)||[Clash for Android](https://github.com/githubvpn007/Clash-for-Android) <br/> [ClashA](https://github.com/githubvpn007/ClashA)||
+|[Clash for windows](https://github.com/githubvpn007/Clash-for-Windows) <br/> [ClashDotNetFramework](https://github.com/githubvpn007/ClashDotNetFramework)|[ClashX](https://github.com/githubvpn007/ClashX)|[Clash for Android](https://github.com/githubvpn007/Clash-for-Android) <br/> [ClashA](https://github.com/githubvpn007/ClashA)||
 
 
 <br/>
