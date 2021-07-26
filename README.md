@@ -194,33 +194,13 @@ vpn集成式软件类似于：
 
 [翻墙的工具软件有很多，根据自己的环境选择合适的工具，如果您不知道哪一个比较好的话 我推荐您先使用V2ray 中对应的windows,macos 即可](#vv)
 
-**V2ray教程**  
-|      windows        |       macos              |      android   |  ios |
-|:-----------------:|:--------------------:|:-------------------------:|:--------------------------------:|
-|[V2rayN](V2rayN_Windows.md) <br/> [Qv2ray](https://github.com/githubvpn007/v2rayNvpn/wiki/Qv2ray-for-Win)  <br/>  [V2rayW](https://github.com/githubvpn007/V2rayW) <br/> [V2RayS](https://github.com/githubvpn007/V2RayS)|[v2rayX](V2rayX_MacOs.md)|[V2rayNG](V2rayNG_Android.md)|[Kitsunebi](Kitsunebi_ios.md)|
-
-<br/>
-
-**Shadowsocks教程**  
-|     Windows       |       macos           |     android    |  ios/iPadOS 客户端 |
-|:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
-|[Shadowsocks](ss_windows.md)|[ShadowsocksX-NG](ss_macos.md)|[shadowsocks-android](ss_android.md)|  [Shadowrocket](ss_ios.md)    |
-
-<br/>
-
-**ShadowsocksR 教程**  
-|     Windows        |      MacOS              |     android    |  IOS |
-|:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
-|[ShadowsocksR-winp](ssr_windows.md)|[MacOS 的 SSR 使用方法同 Shadowsocks 设置方法 (macOS) ](ss_macos.md)|[ shadowsocksr-android](ssr_android.md)|[IOS 的 SSR 使用方法同 Shadowsocks 设置方法 (iOS)](ss_ios.md)|
-
-
-<br/>
-
-**Clash 教程**  
-
-|     Windows        |      MacOS              |     android    |  IOS |
-|:--------------------------:|:-----------------------------:|:-------------------------------------:|:------------------------------------------------:|
-|[Clash for windows](https://github.com/githubvpn007/Clash-for-Windows) <br/> [ClashDotNetFramework](https://github.com/githubvpn007/ClashDotNetFramework)|[ClashX](https://github.com/githubvpn007/ClashX)|[Clash for Android](https://github.com/githubvpn007/Clash-for-Android) <br/> [ClashA](https://github.com/githubvpn007/ClashA)||
+ 
+|协议/项目|      windows        |       macos              |      android   |  ios |
+|:-----------------:|:-----------------:|:--------------------:|:-------------------------:|:--------------------------------:|
+|**V2ray教程** |[V2rayN](V2rayN_Windows.md) <br/> [Qv2ray](https://github.com/githubvpn007/v2rayNvpn/wiki/Qv2ray-for-Win)  <br/>  [V2rayW](https://github.com/githubvpn007/V2rayW) <br/> [V2RayS](https://github.com/githubvpn007/V2RayS)|[v2rayX](V2rayX_MacOs.md)|[V2rayNG](V2rayNG_Android.md)|[Kitsunebi](Kitsunebi_ios.md)|
+|**Shadowsocks教程**|[Shadowsocks](ss_windows.md)|[ShadowsocksX-NG](ss_macos.md)|[shadowsocks-android](ss_android.md)|  [Shadowrocket](ss_ios.md)    |
+|**ShadowsocksR 教程**|[ShadowsocksR-winp](ssr_windows.md)|[MacOS 的 SSR 使用方法同 Shadowsocks 设置方法 (macOS) ](ss_macos.md)|[ shadowsocksr-android](ssr_android.md)|[IOS 的 SSR 使用方法同 Shadowsocks 设置方法 (iOS)](ss_ios.md)|
+|**Clash 教程**|[Clash for windows](https://github.com/githubvpn007/Clash-for-Windows) <br/> [ClashDotNetFramework](https://github.com/githubvpn007/ClashDotNetFramework)|[ClashX](https://github.com/githubvpn007/ClashX)|[Clash for Android](https://github.com/githubvpn007/Clash-for-Android) <br/> [ClashA](https://github.com/githubvpn007/ClashA)||
 
 
 <br/>
