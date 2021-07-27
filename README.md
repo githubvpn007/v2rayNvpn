@@ -83,11 +83,10 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 1.价格相对较贵  
 
 
-vpn集成式软件类似于：  
+  
 一、Express VPN（[点击访问官网](https://www.expressvpn.com/)）  
-二、Westworld西部世界 （[点击访问官网](https://xbsj9729.website/)）  
-三、迷雾通（[点击访问官网](https://geph.io/zhs/)）  
-四、Squirrel vpn（[点击访问官网](https://www.squirrelvp.com/)）
+二、StrongVPN （[点击访问官网](https://strongvpn.com/)）  
+
 
 
 ### (3)自搭建代理服务器(不推荐)  
