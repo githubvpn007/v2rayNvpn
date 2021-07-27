@@ -174,7 +174,8 @@ vpn集成式软件类似于：
 
 |推荐机场|推荐理由|使用说明|
 |:-----------------:|:-----------------:|:-----------------:|
-|[**椰汁vmess/ssr/trojan/v2ray→**](https://kolacloud.com/auth/register?code=TbxY)|线路稳定、价格比较实惠、免费试用、每月最低5元|[椰汁使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E6%A4%B0%E6%B1%81%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)|
+|[**V2云→**](https://cwv587.com/auth/register?code=SZIS)|线路稳定、速度延迟达到11ms、免费试用||
+|~~[**椰汁vmess/ssr/trojan/v2ray→**](https://kolacloud.com/auth/register?code=TbxY)~~|线路稳定、价格比较实惠、免费试用、每月最低5元(速度变慢暂时不推荐使用)|[椰汁使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E6%A4%B0%E6%B1%81%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)|
 |[**Just My Socks→**](https://justmysocks.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵  适合土豪|[Just My Socks使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/Just-My-Socks%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)|
 
 
