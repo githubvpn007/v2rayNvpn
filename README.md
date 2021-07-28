@@ -190,7 +190,7 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
 |**clash订阅**|`(1) https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fbiteb.club%2Flink%2FsIRvwTDNUOwRuJqr%3Fsub%3D3%26extend%3D1&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini`|
-|**V2ray订阅** |`(1) https://rxl-nc.xyz/link/1GfzRdfqyhwa4hNp?sub=3&extend=1` <br/>`(2) https://proxypoolsstest.herokuapp.com/vmess/sub`  <br/> `(3) https://subv2.nanoport.xyz/api/v1/client/subscribe?token=c5419fda3553b5b8bfe147226d0102f7`|  
+|**V2ray订阅** |`(1) https://rxl-nc.xyz/link/1GfzRdfqyhwa4hNp?sub=3&extend=1`|  
 |**ssr订阅**|`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`|
 |**trojan订阅**|`(1) https://raw.fastgit.org/freefq/free/master/v2`|
  
