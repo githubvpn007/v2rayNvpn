@@ -229,10 +229,10 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
  
 |协议/项目|      windows        |       macos              |      android   |  ios |
 |:-----------------:|:-----------------:|:--------------------:|:-------------------------:|:--------------------------------:|
-|**V2ray教程** |[V2rayN](V2rayN_Windows.md) <br/> [Qv2ray](https://github.com/githubvpn007/v2rayNvpn/wiki/Qv2ray-for-Win)  <br/>  [V2rayW](https://github.com/githubvpn007/V2rayW) <br/> [V2RayS](https://github.com/githubvpn007/V2RayS)|[v2rayX](V2rayX_MacOs.md)|[V2rayNG](V2rayNG_Android.md)|[Kitsunebi](Kitsunebi_ios.md)|
-|**Shadowsocks教程**|[Shadowsocks](ss_windows.md)|[ShadowsocksX-NG](ss_macos.md)|[shadowsocks-android](ss_android.md)|  [Shadowrocket](ss_ios.md)    |
-|**ShadowsocksR 教程**|[ShadowsocksR-winp](ssr_windows.md)|[MacOS 的 SSR 使用方法同 Shadowsocks 设置方法 (macOS) ](ss_macos.md)|[ shadowsocksr-android](ssr_android.md)|[IOS 的 SSR 使用方法同 Shadowsocks 设置方法 (iOS)](ss_ios.md)|
-|**Clash 教程**|[Clash for windows](https://github.com/githubvpn007/Clash-for-Windows) <br/> [ClashDotNetFramework](https://github.com/githubvpn007/ClashDotNetFramework)|[ClashX](https://github.com/githubvpn007/ClashX)<br/>[Clash for Windows for Mac](https://github.com/githubvpn007/Clash-for-Mac)|[Clash for Android](https://github.com/githubvpn007/Clash-for-Android) <br/> [ClashA](https://github.com/githubvpn007/ClashA)||
+|**V2ray教程** |[1.V2rayN](V2rayN_Windows.md) <br/> [2.Qv2ray](https://github.com/githubvpn007/v2rayNvpn/wiki/Qv2ray-for-Win)  <br/>  [3.V2rayW](https://github.com/githubvpn007/V2rayW) <br/> [4.V2RayS](https://github.com/githubvpn007/V2RayS)|[1.v2rayX](V2rayX_MacOs.md)|[1.V2rayNG](V2rayNG_Android.md)|[1.Kitsunebi](Kitsunebi_ios.md)|
+|**Shadowsocks教程**|[1.Shadowsocks](ss_windows.md)|[1.ShadowsocksX-NG](ss_macos.md)|[1.shadowsocks-android](ss_android.md)|  [1.Shadowrocket](ss_ios.md)    |
+|**ShadowsocksR 教程**|[1.ShadowsocksR-winp](ssr_windows.md)|[MacOS 的 SSR 使用方法同 Shadowsocks 设置方法 (macOS) ](ss_macos.md)|[ 1.shadowsocksr-android](ssr_android.md)|[IOS 的 SSR 使用方法同 Shadowsocks 设置方法 (iOS)](ss_ios.md)|
+|**Clash 教程**|[1.Clash for windows](https://github.com/githubvpn007/Clash-for-Windows) <br/> [2.ClashDotNetFramework](https://github.com/githubvpn007/ClashDotNetFramework)|[1.ClashX](https://github.com/githubvpn007/ClashX)<br/>[2.Clash for Windows for Mac](https://github.com/githubvpn007/Clash-for-Mac)|[1.Clash for Android](https://github.com/githubvpn007/Clash-for-Android) <br/> [2.ClashA](https://github.com/githubvpn007/ClashA)||
 
 
 <br/>
