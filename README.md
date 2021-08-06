@@ -244,3 +244,8 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 # 扩展资料
 
 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
+
+# 第三方贡献
+|从哪登录|用啥号码|密码是啥|如何使用
+|--|--|--|--|
+|[音速科技](https://niubi.ilaosiji.xyz/)| share@qq.com | 123456 | 本账户每1小时重置为默认状态，修改密码无效;每月提供 512GB 分享流量; |
