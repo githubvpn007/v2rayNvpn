@@ -61,7 +61,7 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 
 # 选择合适的科学上网方式  
 目前常用的科学上网方式有以下几种：  
-### (1)使用代理软件订阅链接代理服务器 【推荐】  
+### (1)使用代理软件订阅代理服务器 【推荐】  
 这种方式是使用V2rayN , Clash , Shadowsocks/ShadowsocksR (ShadowsocksR是Shadowsocks的升级版本 加强了安全性，以后我们就用ShadowsocksR就是可以了)  等代理软件去订阅服务商提供的订阅地址即可实现代理连接。你可以理解为这些工具都是帮您自动创建连接的,只不过这些不同的软件使用的传输协议不一样！！(**[如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 请点这里](https://github.com/githubvpn007/proxy)**)  
 
 **优点:**  
