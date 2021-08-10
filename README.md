@@ -178,7 +178,9 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 | **V2ray**        | **[V2rayN](https://github.com/2dust/v2rayN/releases)**         |  **[V2rayX](https://github.com/Cenmrev/V2RayX/releases)** | **[V2rayNG](https://github.com/2dust/v2rayNG/releases)**  |**[Shadowrocket](https://github.com/githubvpn007/v2rayNvpn/releases/tag/Shadowrocket_2.1.12)** <br/> [kitsunebi](https://apps.apple.com/us/app/kitsunebi-proxy-utility/id1446584073) |
 
 
-### [如果你想下载更多相关工具 请看这里](https://github.com/githubvpn007/ProxyTool)
+#### [如果你想下载更多相关工具 请看这里](https://github.com/githubvpn007/ProxyTool)  
+
+#### 美区AppleID购买  [友情地址](https://xiaoxx.store/)
 
 <br/>
 <br/>
