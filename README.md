@@ -223,7 +223,6 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 
 |推荐机场|理由|使用说明|
 |:-----------------:|:-----------------:|:-----------------:|
-|[**V2云→**](https://11cwv587.com/auth/register?code=SZIS)|最近使用感觉不错、速度延迟只有11ms、免费试用、支付宝支付|[1.点击注册 → ](https://11cwv587.com/auth/register?code=SZIS)<br/> 2.在首页获取订阅连接 |
 |[**速鹰666→**](https://suying222.net/auth/register?code=5J5c)|老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[1.点击注册 → ](https://suying222.net/auth/register?code=5J5c)<br/> 2.在首页右下角获取订阅连接 |
 |[**Just My Socks→**](https://justmysocks3.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵，适合要求ip稳定的用户|[Just My Socks使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/Just-My-Socks%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)|
 |~~[**椰汁vmess/ssr/trojan/v2ray→**](https://kolacloud.com/auth/register?code=TbxY)~~|~~线路稳定、价格比较实惠、免费试用、每月最低5元~~(速度变慢暂时不推荐使用)|[椰汁使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E6%A4%B0%E6%B1%81%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)|
