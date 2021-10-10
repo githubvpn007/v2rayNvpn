@@ -55,7 +55,7 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
     
     或者  
     
-    ![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/%E5%BC%80%E5%90%AF.png?raw=true)
+    ![图片](./images/开启.png)
     
 *   返回v2rayN 主界面，右键点击您需要连接的服务器节点> 「设为活动服务器」。  
 
