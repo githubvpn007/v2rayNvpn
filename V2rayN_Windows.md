@@ -5,7 +5,7 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
 
 下载及安装
 -----
-[点击下载](https://github.com/2dust/v2rayN/releases)
+[点击下载 v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases)
 
 
 1.  下载完成后，进行解压，双击文件夹内的v2rayN即可运行。
