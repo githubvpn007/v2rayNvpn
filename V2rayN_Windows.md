@@ -51,7 +51,11 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
 
 *   在屏幕底部任务栏右键点击v2rayN图标>选择「Http代理模式」>「开启PAC ，并自动配置PAC（PAC模式）」（如果弹出防火墙安全警报，请点击「允许访问」）  
     
-    ![image-20200920095947265](./images/打开PAC.png)
+    ![image-20200920095947265](./images/打开PAC.png)  
+    
+    或者  
+    
+    ![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/%E5%BC%80%E5%90%AF.png?raw=true)
     
 *   返回v2rayN 主界面，右键点击您需要连接的服务器节点> 「设为活动服务器」。  
 
