@@ -223,11 +223,13 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 ## [付费节点：](#付费节点)  
 
 **[`*注意：由于不可控力的原因，不排除节点被墙，原因你懂的！ 所以按照我的经验 大家最好是按月续费！`](#1)**  
-**[`*注意：假入你购买的订阅地址突然上不了网 并且套餐没有过期，请重新到官网上获取订阅地址 然后“更新订阅” ！ 如果还是不行可能是机场在维护，请隔天再试`](#1)**
+**[`*注意：假入你购买的订阅地址突然上不了网 并且套餐没有过期，请重新到官网上获取订阅地址 然后“更新订阅” ！ 如果还是不行可能是机场在维护，请隔天再试`](#1)**  
+
+**[`偶尔网站会出现访问不到的情况， 请一定要记住备用地址`](#1)**
 
 |推荐机场|理由|使用说明|
 |:-----------------:|:-----------------:|:-----------------:|
-|[**速鹰666 注册→**](https://dllzff.cn/j6IlDiGy) <br/> [**注意：*备用地址：**](#1)  <br/>  [**https://dllzff.cn/yzx2gL6r**](https://dllzff.cn/yzx2gL6r) <br/>  [**https://dllzff.cn/jSVocMhV**](https://dllzff.cn/jSVocMhV) <br/>  [**https://dllzff.cn/j6IlDiGy**](https://dllzff.cn/j6IlDiGy) <br/>  [**https://dllzff.cn/oGGsCbeo**](https://dllzff.cn/oGGsCbeo) <br/>  [**https://dllzff.cn/rFbvc16z**](https://dllzff.cn/rFbvc16z) <br/>  [**https://dllzff.cn/ritxw2SX**](https://dllzff.cn/ritxw2SX)|老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[1.点击注册 → ](https://dllzff.cn/j6IlDiGy)<br/> 2.在首页右下角获取订阅连接 |
+|[**速鹰666 注册→**](https://dllzff.cn/j6IlDiGy) <br/> [***备用地址：**](#1)  <br/>  [**https://dllzff.cn/yzx2gL6r**](https://dllzff.cn/yzx2gL6r) <br/>  [**https://dllzff.cn/jSVocMhV**](https://dllzff.cn/jSVocMhV) <br/>  [**https://dllzff.cn/j6IlDiGy**](https://dllzff.cn/j6IlDiGy) <br/>  [**https://dllzff.cn/oGGsCbeo**](https://dllzff.cn/oGGsCbeo) <br/>  [**https://dllzff.cn/rFbvc16z**](https://dllzff.cn/rFbvc16z) <br/>  [**https://dllzff.cn/ritxw2SX**](https://dllzff.cn/ritxw2SX)<br/>  [**https://dllzff.cn/XGovUbqB**](https://dllzff.cn/XGovUbqB)<br/>  [**https://dllzff.cn/rOUdTdRx**](https://dllzff.cn/rOUdTdRx)|老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|[1.点击注册 → ](https://dllzff.cn/j6IlDiGy)<br/> 2.在首页右下角获取订阅连接 |
 |[**Just My Socks→**](https://justmysocks3.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵，适合要求ip稳定的用户|[Just My Socks使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/Just-My-Socks%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)|
 
 
