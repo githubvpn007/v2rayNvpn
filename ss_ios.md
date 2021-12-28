@@ -29,7 +29,7 @@ Shadowsocks 配置
 ### (1) 扫码导入 （推荐）  
 如果你有节点二维码，可以直接点击小火箭左上角的扫码按钮，自动识别并添加。  
 
-![](./images/ss/ios-1.jpg)  
+![](https://i.postimg.cc/wvs3KyNm/ios-1.png)  
 
 <br/>
 
@@ -41,7 +41,7 @@ Shadowsocks 配置
 
 ### (3)手动添加服务器信息  
 
-![](./images/ss/ios-2.jpg)  
+![](https://i.postimg.cc/YSPjyfv7/ios-2.png)  
 如图，根据自己掌握的节点信息依次填写即可。  
 
 <br/>
@@ -54,12 +54,12 @@ Shadowsocks 配置
 
 在 URL 一栏粘贴自己的 订阅链接 ，备注一栏可以随便填写  
 
-![](./images/ss/ios-3.png)  
-![](./images/ss/ios-4.jpg)  
+![](https://i.postimg.cc/ZKLnhhWV/ios-3.png)  
+![](https://i.postimg.cc/7Y4hcLZ5/ios-4.png)  
 
 Shadowrocket 会从订阅服务器获取订阅信息并添加节点到本地。  
 
-![](./images/ss/ios-5.png)  
+![](https://i.postimg.cc/G2Y3g00P/ios-5.png)  
 
 <br/>  
 
@@ -71,7 +71,7 @@ Shadowrocket 会从订阅服务器获取订阅信息并添加节点到本地。
 
 点击 「延迟测试」，若干秒之后节点右侧会有数值显示。如下图。
 
-![](./images/ss/ios-7.jpg) 
+![](https://i.postimg.cc/RhBSjP9k/ios-7.png) 
 
 建议选择一个延迟较低的节点后打开右上角的开关进行连接。（但请注意延迟与网速并无关系）  
 
