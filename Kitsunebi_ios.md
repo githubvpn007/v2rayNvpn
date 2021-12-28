@@ -40,24 +40,24 @@ Kitsunebi配置
 然后打开软件，点击底部的“服务器”，点击右上角加号，点击“订阅”。  
 
 
-![ios-1](./images/V2rayX/ios-1.jpg)  
+![ios-1](https://i.postimg.cc/MZDzrmMQ/ios-1.jpg)  
 
 <br/>
 
 [(2)然后打开软件，点击底部的“服务器”，点击右上角加号，点击“订阅”。然后粘贴自己的订阅地址到 URL 那一栏，备注可以随便写。自动更新选项可以打开。  ]()  
 
-![ios-1](./images/V2rayX/ios-2.jpg)  
+![ios-1](https://i.postimg.cc/Xq760tGy/ios-2.jpg)  
 <br/>  
 
 [(3)填写完毕后请勿直接点击“从URL更新”，而是要先点击“存储”，再回到“服务器”页面，然后点击“订阅”后边的 i 按钮，然后再点击 “从URL更新”。]()  
 
-![ios-1](./images/V2rayX/ios-3.jpg)  
+![ios-1](https://i.postimg.cc/Mphwjs4h/ios-3.jpg)  
 <br/>   
 
 
 [(4)此时节点信息就会出现在“服务器”页面。如图：  ]()  
 
-![ios-1](./images/V2rayX/ios-4.jpg)  
+![ios-1](https://i.postimg.cc/vHTw2FwJ/ios-4.jpg)  
 
 <br/>
 <br/>
