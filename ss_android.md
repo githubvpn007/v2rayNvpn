@@ -23,13 +23,13 @@
 
 安装完成后，在 Shadowsocks 应用程序界面击左上方 Shadowsocks 即可进入配置节点，按下右上方即可选择开启或关闭 Shadowsocks 连接
 
-![](./images/ss/android-1.png)  
+![](https://i.postimg.cc/HnDnTY0P/android-1.png)  
 
 <br/>
 
 我们按下左上方 Shadowsocks 进入配置节点界面，在右下方 + (下图橙色位置)号即可选择您需要的配置方式
 
-![](./images/ss/android-2.png)  
+![](https://i.postimg.cc/ZqnCcDKj/android-2.png)  
 
 
 <br/>
@@ -38,7 +38,7 @@
 
 按下扫描二维码后到您其他设备打开产品详情界面点击节点红色节点旁的二维码图标
 
-![](./images/ss/android-3.png)
+![](https://i.postimg.cc/bYkd3npX/android-3.png)
 
 进行扫码后即可配置完成  
 
@@ -47,7 +47,7 @@
 
 ### 手工配置
 
-![](./images/ss/android-4.jpg)  
+![](https://i.postimg.cc/BbT66rMZ/android-4.jpg)  
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 在您信息配置完成后，我们推荐在功能设置中设置「绕过局域网及中国大陆模式」，该模式可以实现自动代理，在下图中其他选项不要启用
 
-![](./images/ss/android-5.png)  
+![](https://i.postimg.cc/7L5Z7GmW/android-5.png)  
 
 <br/>
 
