@@ -18,8 +18,6 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
 
 为了确保v2rayN 正常运行，在安装和运行过程中有任何警告窗口都不要阻止。
 
-<!-- ![image-20200920095947265](./images/v2首页.png) -->  
-
 ![image-20200920095947265](https://i.postimg.cc/Mprr4h5L/v2.png)
 
 
@@ -35,13 +33,10 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
 *   **导入订阅地址**  
     1.  在屏幕底部任务栏右键双击v2rayN 图标，进入主界面> 点击「订阅」>「订阅设置」>「添加」> 在备注（remarks）填写「自定义名称」> 在地址（url）栏粘贴刚才的「 v2rayN 订阅地址」> 「确定」  
     
-<!--      ![image-20200920095947265](./images/设置订阅.png) -->  
 
      ![image-20200920095947265](https://i.postimg.cc/SKMVPjJX/image.png)
     
     2.  最后点击左上方的「订阅」>「更新订阅」，同步最新的节点信息。   
-    
-<!--       ![image-20200920095947265](./images/更新订阅.png) -->  
 
     ![image-20200920095947265](https://i.postimg.cc/v8L2M1Xf/image.png)
    
@@ -54,20 +49,14 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
 --
 
 *   在屏幕底部任务栏右键点击v2rayN图标>选择「Http代理模式」>「开启PAC ，并自动配置PAC（PAC模式）」（如果弹出防火墙安全警报，请点击「允许访问」）  
-    
-<!--     ![image-20200920095947265](./images/打开PAC.png)   -->
 
     ![image-20200920095947265](https://i.postimg.cc/63Cj8TKs/PAC.png)  
     
     或者  
     
-<!--     ![图片](./images/开启.png) -->
-
     ![图片](https://i.postimg.cc/Xq8sghXQ/image.png)
     
 *   返回v2rayN 主界面，右键点击您需要连接的服务器节点> 「设为活动服务器」。  
-
-<!-- ![image-20200920095947265](./images/设为活动服务器.png) -->
 
 ![image-20200920095947265](https://i.postimg.cc/1XPWwPR8/image.png)
     
