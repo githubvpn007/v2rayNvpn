@@ -9,7 +9,7 @@ v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本�
 
 
 1.  下载完成后，进行解压，双击文件夹内的v2rayN即可运行。
-2.  如闪退请确认电脑系统是否缺少. NET 4.5（最低4.5）。
+2.  如闪退请确认电脑系统是否缺少. NET 4.5（最低4.5）。 如果缺少 [点击这个安装](https://docs.microsoft.com/zh-cn/dotnet/framework/install/guide-for-developers)
 3.  安装成功后会自动运行v2rayN ，屏幕底部任务栏将显示浅蓝底色的v2rayN 图标。
     *   如果您看不到v2rayN图标，它可能已隐藏，点击可显示隐藏的图标。
     *   双击任务栏v2rayN 图标可显示软件主界面。
