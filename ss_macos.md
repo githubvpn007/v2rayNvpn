@@ -62,7 +62,7 @@
 
 此二维码同样适用于其他客户端。
 
-* 点击屏幕顶部菜单栏的 ![menu_icon_disabled](./images/ss/mac-menu_icon_disabled.png) > "扫描屏幕上的二维码" > 当看到 "已添加新的Shadowsocks服务器"，代表添加成功。
+* 点击屏幕顶部菜单栏的 ![menu_icon_disabled](https://i.postimg.cc/9QnWWXCt/mac-menu-icon-disabled.png) > "扫描屏幕上的二维码" > 当看到 "已添加新的Shadowsocks服务器"，代表添加成功。
 * 点击 "打开Shadowsocks" 。
 * 当显示 `Shadowsocks: On`时，表示系统代理已经打开。
 
