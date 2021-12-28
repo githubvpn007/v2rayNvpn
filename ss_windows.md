@@ -28,7 +28,7 @@
 访问 Shadowsocks Windows 客户端 [下载页面](https://github.com/shadowsocks/shadowsocks-windows/releases)。
 下载最新版本的 `Shadowsocks-x.x.x.zip`  (`x.x.x`为版本号) 。
 
-![下载页面](./images/ss/win-0.png)
+![下载页面](https://i.postimg.cc/2yrYHV7m/win-0.png)
 
 或是前往 [客户端中心](https://shadowsocks.org/en/download/clients.html) 下载
 
@@ -38,11 +38,11 @@
 点击 "浏览" 选择想要解压到的文件目录 > "完成时显示提取的文件" > "提取"。
 双击运行 `Shadowsocks.exe`。
 
-![解压 Shadowsocks.exe](./images/ss/win-1.png)
+![解压 Shadowsocks.exe](https://i.postimg.cc/50MW06Gv/win-1.png)
 
-![解压 Shadowsocks.exe](./images/ss/win-2.png)
+![解压 Shadowsocks.exe](https://i.postimg.cc/ZqvJ0kqk/win-2.png)
 
-![双击运行 Shadowsocks.exe](./images/ss/win-3.png)
+![双击运行 Shadowsocks.exe](https://i.postimg.cc/3RMYvLyk/win-3.png)
 
 
 
@@ -55,45 +55,45 @@
 
 从分享节点的网站中依次填入相应信息，确定即可
 
-![1549868618888](./images/ss/win-4.png)
+![1549868618888](https://i.postimg.cc/XqLbt4s5/win-4.png)
 
 
 #### 二维码方式增加节点
 
 **在分享节点的网站中一般都有查看二维码的功能。**
 
-![1549868214348](./images/ss/win-5.png)
+![1549868214348](https://i.postimg.cc/nVGpXGnL/win-5.png)
 
 此二维码同样适用于其他客户端。
 
-* 右键状态栏![ss icon](./images/ss/win-icon.png) > "服务器” > "扫描屏幕上的二维码"。
+* 右键状态栏![ss icon](https://i.postimg.cc/8zjSn8MF/win-icon.png) > "服务器” > "扫描屏幕上的二维码"。
 * 点击 "启用系统代理" 。
 
-![QR](./images/ss/win-6.png)
+![QR](https://i.postimg.cc/JhXWMbTM/win-6.png)
 
 
 #### 配置文件添加账号
 
 * 将 `gui-config.json` 拖移到和 `Shadowsocks.exe` 同一个文件目录下。
 
-![gui-config.json 拖到和 Shadowsocks.exe 同目录](./images/ss/win-7.png)
+![gui-config.json 拖到和 Shadowsocks.exe 同目录](https://i.postimg.cc/c41ZwtJB/win-7.png)
 
-* 双击 `Shadowsocks.exe` > 右键状态栏 ![ss icon](./images/ss/win-icon.png) >  单击 “服务器”  > 即可看到服务器信息已自动填充完成。
+* 双击 `Shadowsocks.exe` > 右键状态栏 ![ss icon](https://i.postimg.cc/8zjSn8MF/win-icon.png) >  单击 “服务器”  > 即可看到服务器信息已自动填充完成。
 
 
-* 右键状态栏![ss icon](./images/ss/win-icon.png) > "启用系统代理”。
+* 右键状态栏![ss icon](https://i.postimg.cc/8zjSn8MF/win-icon.png) > "启用系统代理”。
 
-![右键图标](./images/ss/win-8.png)
+![右键图标](https://i.postimg.cc/zXdNjDbZ/win-8.png)
 
 
 ## 配置系统代理模式
-* 右键状态栏![ss icon](./images/ss/win-icon.png) > "系统代理模式" > "PAC模式"。
+* 右键状态栏![ss icon](https://i.postimg.cc/8zjSn8MF/win-icon.png) > "系统代理模式" > "PAC模式"。
 
 * 如果使用 PAC 模式无法访问网站，请点击 [Pac文件下载](https://portal.shadowsocks.nu/dl.php?type=d&id=14) 下载 pac 配置文件，将  `pac.txt` 文件拖放在与 `Shadowsocks.exe` 相同的文件目录下。
 
-![pac模式](./images/ss/win-9.png)
+![pac模式](https://i.postimg.cc/g2QPCMHg/win-9.png)
 
-![下载 pac](./images/ss/win-10.png)
+![下载 pac](https://i.postimg.cc/63dwLdRY/win-10.png)
 
 ## 注意事项
 - **PAC 模式** 表示可以实现自动代理， 及本来可以访问的网站不会经过代理，推荐日常使用。
