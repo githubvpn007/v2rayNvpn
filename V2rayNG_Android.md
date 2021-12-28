@@ -17,7 +17,7 @@ v2rayNG 是一款优秀的代理工具。
     2.  如已购买，前往用户后台，登入后即可进入您的管理产品页面。    
     3.  在管理产品页面上，依次点击「Android」>「v2rayNG」>「复制订阅地址」> 发送至您的手机  
 
-    ![订阅](./images/V2rayX/android获取订阅地址.png)
+    ![订阅](https://i.postimg.cc/3Nn7435B/android.png)  
 
 *   **导入订阅地址**
     
