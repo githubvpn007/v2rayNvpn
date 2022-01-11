@@ -206,7 +206,7 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
 |**clash订阅**||
-|**V2ray订阅** |`(1) https://api.ikuuu.science/link/iogQsfIRY9TU9VmO?sub=3&extend=1` <br/> `(2)https://git.io/emzv2ray`|  
+|**V2ray订阅** |~~`(1) https://api.ikuuu.science/link/iogQsfIRY9TU9VmO?sub=3&extend=1`~~ <br/> ~~`(2)https://git.io/emzv2ray`~~|  
 |**ssr订阅**|~~`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`~~|
 |**trojan订阅**|`(1) https://raw.fastgit.org/freefq/free/master/v2`|
  
