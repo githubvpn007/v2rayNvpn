@@ -1,4 +1,4 @@
-[**2022年月02月08日9点更新**](#1)、翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vpn代理  
+[**2022年月02月11日15点更新**](#1)、翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vpn代理  
 
 # 最优的科学上网方案 把我踩过的坑说出来
 
@@ -206,7 +206,7 @@ VPN或虚拟 专用网络允许你将计算机连接到远程网络，VPN通常�
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
 |**clash订阅**||
-|**V2ray订阅** |~~`(1) https://api.ikuuu.science/link/iogQsfIRY9TU9VmO?sub=3&extend=1`~~ <br/> ~~`(2)https://git.io/emzv2ray`~~|  
+|**V2ray订阅** |`(1) https://cdn.jsdelivr.net/gh/v2raydy/v2ray@main/02-11j1.txt`|  
 |**ssr订阅**|~~`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`~~|
 |**trojan订阅**|`(1) https://raw.fastgit.org/freefq/free/master/v2`|
  
