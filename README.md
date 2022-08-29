@@ -1,4 +1,4 @@
-[**最近更新 2022年8月27日**](#1)、 翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vless、vpn代理  
+[**最近更新 2022年8月29日**](#1)、 翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vless、vpn代理  
 
 # 最优的科学上网方案 把我踩过的坑说出来
 
@@ -247,7 +247,7 @@ vmess://eyJhZGQiOiJsYy1rcjAyLWRpcmVjdDAxLmxjLWtyMDIubGMtbm9kZS5jb20iLCJ2IjoiMiIs
 
 |推荐机场|理由|使用说明|
 |:-----------------:|:-----------------:|:-----------------:|
-|[**速鹰666注册(入口一)→**](https://suying112.com/auth/register?code=5J5c) <br/> [**速鹰666注册(入口二)→**](https://suying112.com/auth/register?code=qiyY) <br/> <br/> ***备用地址：**  <br/>  [**http://www.tkgj.life/b**](http://www.tkgj.life/b) <br/>  [**http://www.tkgj.life/6**](http://www.tkgj.life/6) <br/>  [**http://www.tkgj.life/a**](http://www.tkgj.life/a) <br/>  [**http://www.tkgj.life/5**](http://www.tkgj.life/5) <br/>  [**http://www.tkgj.life/9**](http://www.tkgj.life/9) <br/>  [**http://www.tkgj.life/4**](http://www.tkgj.life/4)<br/>  [**http://www.tkgj.life/8**](http://www.tkgj.life/8)<br/>  [**http://www.tkgj.life/3**](http://www.tkgj.life/3)|老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|1.注册 <br/> 2.购买套餐 <br/> 3.在首页右下角获取订阅连接 |
+|[**速鹰666注册(入口一)→**](https://suying112.com/auth/register?code=qiyY) <br/> [**速鹰666注册(入口二)→**](https://suying112.com/auth/register?code=5J5c) <br/> <br/> ***备用地址：**  <br/>  [**http://www.tkgj.life/b**](http://www.tkgj.life/b) <br/>  [**http://www.tkgj.life/6**](http://www.tkgj.life/6) <br/>  [**http://www.tkgj.life/a**](http://www.tkgj.life/a) <br/>  [**http://www.tkgj.life/5**](http://www.tkgj.life/5) <br/>  [**http://www.tkgj.life/9**](http://www.tkgj.life/9) <br/>  [**http://www.tkgj.life/4**](http://www.tkgj.life/4)<br/>  [**http://www.tkgj.life/8**](http://www.tkgj.life/8)<br/>  [**http://www.tkgj.life/3**](http://www.tkgj.life/3)|老牌大机场8K无压力、节点超多(注意：购买档次不同给到的节点数量也不同，最多150多个节点)、支付宝支付、微信、适合节点要求多的用户。 [注意：没有免费试用，需要购买套餐后才能使用，使用量不超过3G流量的话可以申请退款](#1)|1.注册 <br/> 2.购买套餐 <br/> 3.在首页右下角获取订阅连接 |
 |[**Just My Socks→**](https://justmysocks3.net/members/aff.php?aff=18081)|一家美国服务商 高速稳定、30天不满意退款。价格相对较贵，适合要求ip稳定的用户|[Just My Socks使用教程](https://github.com/githubvpn007/v2rayNvpn/wiki/Just-My-Socks%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)|
 
 
