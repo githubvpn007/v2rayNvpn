@@ -61,7 +61,7 @@
 **常用的上网软件：** Shadowsocks，Shadowsocks-R，V2Ray，Trojan，Clash  
 
 <br/>
-
+<br/>  
 
 **什么是VPN？**  
 
@@ -106,13 +106,20 @@
 
 ### [我最喜欢的科学上网方案，主要是教大家怎么通过这种方式上外网. 步骤如下：](#1)  
 
-**1.首先下载代理软件** (根据自己的设备系统下载对应的版本。我推荐使用V2ray协议的工具，因为V2ray协议支持最广泛  [下载工具](#工具下载) )  
+**1.首先搭建代理服务器或者购买别人搭建好的代理服务器**  
+
+自己搭建:
+Shadowsocks/SS，[请参考：Shadowsocks/SS一键脚本](https://www.xiaoglt.top/?p=1500)
+ShadowsocksR/SSR，[请参考：ShadowsocksR/SSR一键脚本](https://www.xiaoglt.top/?p=1500)
+V2Ray，[请参考：V2Ray一键脚本](https://www.xiaoglt.top/?p=516)
+trojan，[请参考：trojan一键脚本](https://www.xiaoglt.top/?p=1182)
+xray,[请参考：xray一键脚本](https://www.xiaoglt.top/?p=744)
+
 &emsp; &emsp; &emsp; [↓↓](#1)  
-**2.学会使用代理软件** (根据自己下载的代理软件，查看对应的教程 [学习教程](#使用教程)  ）  
+**2.使用代理上网客户端连接您的代理服务器** (根据自己的设备系统下载对应的版本。我推荐使用V2ray协议的工具，因为V2ray协议支持最广泛  [下载工具&教程](#工具下载) )  
 &emsp; &emsp; &emsp; [↓↓](#1)  
-**3.获取订阅节点** (你可以使用本教程的免费节点链接. 也可以使用高速稳定的付费节点链接 [节点](#节点分享)  )  
-&emsp; &emsp; &emsp; [↓↓](#1)  
-**4.最后通过代理工具去订阅这些节点链接 就可以上网了**
+**3.配置好代理上网客户端之后就可以上外网了** 
+
 
 
 <br/>
