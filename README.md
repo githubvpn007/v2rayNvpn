@@ -48,17 +48,17 @@
 <br/>
 - **用户范围：** 由于其安全性的提高和切换节点的便利性， 用户使用范围逐步超过了传统的VPN  
 <br/>
-**协议：** Shadowsocks，Shadowsocks-R ，Socks5，VMess，VLESS，Trojan， 其中Shadowsocks和Shadowsocks-R既是一种协议也是一个代理软件的名字。Shadowsocks和Shadowsocks-R的速度会更快，因为他少了很多加密伪装的中间算法。如果你只是用来查查资料，自己搭建这种代理使用大概率GFW不会管你  
+- **协议：** Shadowsocks，Shadowsocks-R ，Socks5，VMess，VLESS，Trojan， 其中Shadowsocks和Shadowsocks-R既是一种协议也是一个代理软件的名字。Shadowsocks和Shadowsocks-R的速度会更快，因为他少了很多加密伪装的中间算法。如果你只是用来查查资料，自己搭建这种代理使用大概率GFW不会管你  
 <br/>
-**主流：** VLESS和 VMess协议  
+- **主流：** VLESS和 VMess协议  
 <br/>
-**优点：** 便宜，节点扩展容易，安全性极高  
+- **优点：** 便宜，节点扩展容易，安全性极高  
 <br/>
-**缺点：** 使用相对麻烦， 需要自己搭建服务器 或者 购买机场然后订阅  
+- **缺点：** 使用相对麻烦， 需要自己搭建服务器 或者 购买机场然后订阅  
 <br/>
-**适用人群：** 对稳定性要求高的用户，对扩展性要求高的用户， 对于喜欢折腾一下技术自己搭建的用户  
+- **适用人群：** 对稳定性要求高的用户，对扩展性要求高的用户， 对于喜欢折腾一下技术自己搭建的用户  
 <br/>
-**常用的上网软件：** Shadowsocks，Shadowsocks-R，V2Ray，Trojan，Clash  
+- **常用的上网软件：** Shadowsocks，Shadowsocks-R，V2Ray，Trojan，Clash  
 
 <br/>
 <br/>  
