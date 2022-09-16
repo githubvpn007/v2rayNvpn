@@ -197,32 +197,7 @@ xray,[请参考：xray一键脚本](https://www.xiaoglt.top/?p=744)
 <br/>
 
 
-### (3)自搭建代理服务器
-自搭建顾名思义就是自己购买服务器自己搭建代理环境，对于学习技术需要练手的朋友可以试试这种方式。但是选择服务器供应商很重要，有的服务器供应商提供的机子在国内很容易被墙  
 
-**优点:**  
-1.服务稳定  
-2.价格便宜  
-3.购买服务器不用实名  
-4.流量独享
-
-**缺点：**  
-1.技术要求较高  不适合小白  
-2.节点较少 不方便扩展新的节点  
-
-**自搭建教程(选其一即可)：**  
-[搭建 V2ray 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/%E7%BE%8E%E5%9B%BDVPS-Hostwinds%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BAV2Ray%E6%9C%80%E6%96%B0%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B)  
-[搭建 SSR 服务器教程](https://github.com/githubvpn007/v2rayNvpn/wiki/VPS%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%90%AD%E5%BB%BASSR%E6%95%99%E7%A8%8B)  
-
-<br/>  
-
-
-
-
-
-<br/>
-<br/>
-<br/> 
 
 
 # 工具下载  
