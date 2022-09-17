@@ -129,11 +129,11 @@
 
 自己搭建:  
 
-Shadowsocks/SS，[请参考：Shadowsocks/SS一键脚本](https://www.xiaoglt.top/?p=1500)  
-ShadowsocksR/SSR，[请参考：ShadowsocksR/SSR一键脚本](https://www.xiaoglt.top/?p=1500)  
-V2Ray，[请参考：V2Ray一键脚本](https://www.xiaoglt.top/?p=516)  
-trojan，[请参考：trojan一键脚本](https://www.xiaoglt.top/?p=1182)  
-xray,[请参考：xray一键脚本](https://www.xiaoglt.top/?p=744)  
+Shadowsocks/SS，[请参考：Shadowsocks/SS一键脚本](https://www.xiaoglt.top/vps一键脚本搭建ssr教程/)  
+ShadowsocksR/SSR，[请参考：ShadowsocksR/SSR一键脚本](https://www.xiaoglt.top/vps一键脚本搭建ssr教程/)  
+V2Ray，[请参考：V2Ray一键脚本](https://www.xiaoglt.top/v2ray一键脚本/)  
+trojan，[请参考：trojan一键脚本](https://www.xiaoglt.top/自建trojan-trojan-go服务器及客户端配置多用户实现科学上网/)  
+xray,[请参考：xray一键脚本](https://www.xiaoglt.top/xray-vlesstcpxtls一键脚本/)  
 
 购买别人搭建好的代理服务器 [请参考这里](#付费节点)
 
