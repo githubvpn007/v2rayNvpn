@@ -127,7 +127,7 @@
 
 **1.首先搭建代理服务器或者购买别人搭建好的代理服务器**  
 
-自己搭建:  
+喜欢折腾技术的可以自己搭建:  
 
 Shadowsocks/SS，[请参考：Shadowsocks/SS一键脚本](https://www.xiaoglt.top/vps一键脚本搭建ssr教程/)  
 ShadowsocksR/SSR，[请参考：ShadowsocksR/SSR一键脚本](https://www.xiaoglt.top/vps一键脚本搭建ssr教程/)  
@@ -135,7 +135,9 @@ V2Ray，[请参考：V2Ray一键脚本](https://www.xiaoglt.top/v2ray一键脚�
 trojan，[请参考：trojan一键脚本](https://www.xiaoglt.top/自建trojan-trojan-go服务器及客户端配置多用户实现科学上网/)  
 xray,[请参考：xray一键脚本](https://www.xiaoglt.top/xray-vlesstcpxtls一键脚本/)  
 
-购买别人搭建好的代理服务器 [请参考这里](#付费节点)
+<br/> 
+
+小白可以直接购买别人搭建好的代理服务器 [请参考这里](#付费节点)
 
 &emsp; &emsp; &emsp; [↓↓](#1)  
 
