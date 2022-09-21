@@ -127,7 +127,7 @@
 
 **1.首先搭建代理服务器或者购买别人搭建好的代理服务器**  
 
-喜欢折腾技术的可以自己搭建:  
+喜欢折腾技术的可以自己搭建(任意选一种):  
 
 Shadowsocks/SS，[请参考：Shadowsocks/SS一键脚本](https://www.xiaoglt.top/vps一键脚本搭建ssr教程/)  
 ShadowsocksR/SSR，[请参考：ShadowsocksR/SSR一键脚本](https://www.xiaoglt.top/vps一键脚本搭建ssr教程/)  
