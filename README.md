@@ -249,18 +249,13 @@ xray,[请参考：xray一键脚本](https://www.xiaoglt.top/xray-vlesstcpxtls一
 
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
-|**clash订阅**|`https://nodefree.org/dy/202206/20220626.yaml`|
+|**clash订阅**|`https://9527521.xyz/pubconfig/LQKGRE5BwZTtlcoI`|
 |**V2ray订阅** |``|  
 |**ssr订阅**|~~`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`~~|
 |**trojan订阅**|~~`(1) https://raw.fastgit.org/freefq/free/master/v2`~~|
  
 ```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjExLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiYmxvZ3MubWljcm9zb2Z0LmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NDRlMmY5Ny0xNzljLTRiZmYtODQxNi1mMWZiZWQwNTAwZWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJpem5ldDEwLm5leHR2cG4uY2MiLA0KICAicGF0aCI6ICIvdnBubmVvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-trojan://iyinglong@35.180.122.151:443?allowInsecure=1#🇫🇷FR 3 → v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDY=#🇨🇳 CN_84 v2cross.com
-trojan://xxoo@138.124.183.222:443#Hotspot%20%F0%9F%87%BA%F0%9F%87%B8%5B%E7%BE%8E%E5%9B%BD%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxNzguNjIuMTYuMTYxOjgxMQ==#🇬🇧GB_244
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24001#CN%206
+https://9527521.xyz/pubconfig/LQKGRE5BwZTtlcoI
 
 ```
 
