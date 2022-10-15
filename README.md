@@ -249,13 +249,15 @@ xray,[请参考：xray一键脚本](https://www.xiaoglt.top/xray-vlesstcpxtls一
 
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
-|**clash订阅**|`https://9527521.xyz/pubconfig/LQKGRE5BwZTtlcoI`|
-|**V2ray订阅** |``|  
+|**clash订阅**||
+|**V2ray订阅** |`https://raw.fastgit.org/mianfeifq/share/main/data2022104.txt`|  
 |**ssr订阅**|~~`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`~~|
 |**trojan订阅**|~~`(1) https://raw.fastgit.org/freefq/free/master/v2`~~|
  
 ```
-https://9527521.xyz/pubconfig/LQKGRE5BwZTtlcoI
+vmess://eyJob3N0IjoiZ2l0aHViLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwiYWRkIjoiZ2l0aHViLmNvbSIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwicHMiOiJodHRwczovL2dpdGh1Yi5jb20vbWlhbmZlaWZxL3NoYXJlIOaXtumXtO+8miAyMDIyLTEwLTE1VDA4OjU1OjI3KzA4OjAwIiwicmVtYXJrIjoiaHR0cHM6Ly9naXRodWIuY29tL21pYW5mZWlmcS9zaGFyZSDml7bpl7TvvJogMjAyMi0xMC0xNVQwODo1NToyNyswODowMCIsImlkIjoiMGQ4NTRiNDYtMTVhYy00NTJhLThjMDktMzVlMWQwMTQxZWZiIn0=
+vmess://ewogICAgImFkZCI6ICIxNDEuMTAxLjExNS4xNTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJsZzUuemh1amljbjIuY29tIiwKICAgICJpZCI6ICJiZjQ2MTllNC0wMWRjLTQ4Y2EtYmUwOC0wOTc2YjU0OTY4Y2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIua1geWqkuS9k3wyOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOayueeuoTrnoLTop6PotYTmupDlkJsyLjApIiwiYWRkIjoiMTY3LjE3Mi42NC4xMSIsInBvcnQiOiIxMDA4NiIsInR5cGUiOiJub25lIiwiaWQiOiI3NmEyNzZhMi0wZmMzLTRiZmItY2IwMC02Y2QyYTQzMDk2NzciLCJhaWQiOiIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIxNjcuMTcyLjY0LjExIiwidGxzIjoiIn0=
 
 ```
 
