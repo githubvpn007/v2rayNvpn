@@ -1,4 +1,4 @@
-[**最近更新 2023年03月14日**](#1)、 翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vless、vpn代理    
+[**最近更新 2023年03月14日**](#1)、 翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vless、vpn代理   
 
 # 最优的科学上网方案 把我踩过的坑说出来  
 
@@ -248,15 +248,14 @@ xray,[请参考：xray一键脚本](https://www.xiaoglt.top/xray-vlesstcpxtls一
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
 |**clash订阅**||
-|**V2ray订阅** |`https://9527521.xyz/pubconfig/hD45GzVY9viTd6ef`|  
+|**V2ray订阅** |`https://9527521.xyz/pubconfig/9A4ESjIxMNQsftyr`|  
 |**ssr订阅**|~~`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`~~|
 |**trojan订阅**|~~`(1) https://raw.fastgit.org/freefq/free/master/v2`~~|
  
 ```
-trojan://bs6KJkPBW9MP74uHEa@de1.trojan-lite.com:443#%E5%BE%B7%E5%9B%BD%E7%BE%8E%E5%9B%A0%E6%B2%B3%E7%95%94%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F+xTom%2FAS3214
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTBhXHU2ZDc3XHU1ZTAyIFx1ODA1NFx1OTAxYSIsICJhZGQiOiAiaW4wNS5teTExODgub3JnIiwgInBvcnQiOiA2MzA4NiwgImlkIjogImI0ZWViZDdhLWQwNDQtMzc4NS05Nzc1LTFjN2UyMDZmYzdkOCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAianAtYmFsYW5jZXIubXluMWRlcy5jb20iLCAicGF0aCI6ICIvbXVndWEiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?allowInsecure=0#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIm5vLmFyaWVzLm92aCIsICJwb3J0IjogIjIwNTIiLCAiaWQiOiAiYmFiZDgzNTQtYTYyNS00ODY4LTkyZDEtYjUwZGJhNTFhYTVmIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJlZS5jbG91ZGZsYXJlLnF1ZXN0IiwgInBhdGgiOiAiL2FyaWVzP2VkPTIwNDgiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+vmess://eyJhZGQiOiAiNDMuMTU0LjkwLjEzNCIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjZiNmRkMTFhLTc5OGMtNDAxZS1iYTQ2LWQ2MjcyZTI5YWNhMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGs0L2dldERhdGEiLCAicG9ydCI6IDM4OTA2LCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1ODE3ZVx1OGJhZlx1NGU5MSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogImhrNC52ZXJpY2hhaW5zLmNvIn0=
+trojan://5baea97b-7a9d-39ba-bd0f-0b13025de750@43.201.35.123:443?allowInsecure=1&peer=d1--cn-gotcha05.bilivideo.com&alpn=h2#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 
 ```
 
