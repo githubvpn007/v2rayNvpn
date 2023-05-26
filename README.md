@@ -248,14 +248,15 @@ xray,[请参考：xray一键脚本](https://www.xiaoglt.top/xray-vlesstcpxtls一
 |协议|订阅地址|
 |:-----------------:|:-----------------:|
 |**clash订阅**||
-|**V2ray订阅** |`https://9527521.xyz/pubconfig/0lLVPSX7cUuagKjQ`|  
+|**V2ray订阅** |~~`https://9527521.xyz/pubconfig/0lLVPSX7cUuagKjQ`~~|  
 |**ssr订阅**|~~`(1) https://proxypoolsstest.herokuapp.com/ssr/sub`~~|
 |**trojan订阅**|~~`(1) https://raw.fastgit.org/freefq/free/master/v2`~~|
  
 ```
-trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@stw6-tg-data.amazonwebservicess.com:443#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+scloud.sg
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YjI3XHU3NmRmIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI0NS44NS4xMTkuNDQiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiM0UyNzFDNUYtMjhGRi00NzA0LUI4RTUtQ0MyQjM5QUI3RjYwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJLYW5zYXMua290aWNrLnNpdGUiLCAicGF0aCI6ICIvc3BlZWR0ZXN0IiwgInRscyI6ICJ0bHMiLCAic25pIjogIkthbnNhcy5rb3RpY2suc2l0ZSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLnl4am5vZGUuY29tIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMDljMWQzMmQtNDQ1OC00ZWJmLWIzNmQtNGRkNzMyYmFlM2FhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJidXl2bTIueXhqbm9kZS5jb20iLCAicGF0aCI6ICIveXh6YnAiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjI3LjM5LjExMyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogIjc3NTdFOTlFLTc1QzktNDZENS04NTRELTQwNjVCRjM3MjEwMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJMaWxsZS5rb3RpY2suc2l0ZSIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAidGxzIjogInRscyJ9
+trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMjUudjItcmF5LmN5b3UiLCAiYWlkIjogMiwgImhvc3QiOiAiIiwgImlkIjogIjBkZDE5ZDIwLWVjODYtMzY4MC1iMjU2LTg3MjM3YmFmYTg5ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMzYyNSwgInBzIjogIlx1NWU3Zlx1NGUxY1x1NzcwMVx1NGY1Ylx1NWM3MVx1NWUwMiBcdTc5ZmJcdTUyYTgiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMjAzLjIyLjIyMy41MSIsICJ2IjogIjIiLCAicHMiOiAiXHU2ZmIzXHU1OTI3XHU1MjI5XHU0ZTlhIE1lbGJvdXJuZSBHaXJscyBDb2xsZWdlIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3NzU3RTk5RS03NUM5LTQ2RDUtODU0RC00MDY1QkYzNzIxMDAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiS2Fuc2FzLmtvdGljay5zaXRlIiwgInBhdGgiOiAiL3NwZWVkdGVzdCIsICJ0bHMiOiAidGxzIn0=
 
 ```
 
