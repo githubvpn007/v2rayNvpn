@@ -1,4 +1,4 @@
-[**最近更新 2023年07月27日**](#1)、 翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vless、vpn代理    
+翻墙、免费翻墙、免费科学上网 、外网游戏、国外游戏、免费节点、免费梯子、免费ss/ssr/trojan/v2ray/Clash节点、蓝灯、谷歌商店、翻墙梯子、每天更新、上外网、外网、外贸、vpn推荐、ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray、ClashX、vless、vpn代理    
 
 # 最优的科学上网方案 把我踩过的坑说出来     
 
@@ -283,6 +283,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTUxNmNcdTUzZjhD
 - **[`出现访问不了的时候 请使用备用地址访问`](#1)**
 - **[`万一  万一 万一  如果备用地址也访问不了 回到这里！这里会及时更新地址`](#1)**
 
+**最近更新 2023年07月27日**
 **[2023-06-10  12:00 通知 速鹰域名大面积被墙。具体恢复时间待定（6-12日恢复）](#1)**  
 
 |推荐机场|理由|使用说明|
