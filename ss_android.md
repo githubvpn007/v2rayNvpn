@@ -9,7 +9,7 @@
 - [相关说明](#相关说明)
 
 
-## 下载客户端
+## 下载客户端  
 
 您可以在[Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks) 上下载最新的Shadowsocks 客户端，或通过Github 直接[下载](https://github.com/shadowsocks/shadowsocks-android/releases) .apk 文件进行安装
 
