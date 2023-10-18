@@ -1,4 +1,4 @@
-# ShadowsocksR 设置方法 (Windows)
+# ShadowsocksR 设置方法 (Windows)   
 
 - [系统要求](#系统要求)
 - [安装 ShadowsocksR](#安装-shadowsocksr)
