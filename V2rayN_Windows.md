@@ -3,7 +3,7 @@
 
 v2rayN 是Windows 上对新手比较友好的代理工具。推荐32 位版本的Windows 使用。  
 
-V2rayN 6.36 版本[教程](https://www.xiaoglt.top/v2rayn-6-36-%e7%89%88%e6%9c%ac%e9%85%8d%e7%bd%ae%e6%95%99%e7%a8%8b/)
+**V2rayN 6.36 版本**[教程](https://www.xiaoglt.top/v2rayn-6-36-%e7%89%88%e6%9c%ac%e9%85%8d%e7%bd%ae%e6%95%99%e7%a8%8b/)
 
 下载及安装
 -----
