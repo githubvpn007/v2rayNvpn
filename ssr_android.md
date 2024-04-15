@@ -1,4 +1,4 @@
-# Android 下 ShadowsocksR 设置方法
+# Android 下 ShadowsocksR 设置方法  
 
 ## 1、下载客户端
 
